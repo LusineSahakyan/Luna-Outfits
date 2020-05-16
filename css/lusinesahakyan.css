@@ -1,0 +1,42 @@
+a img{
+	width: 100px;
+	height: 100px;
+}
+.height{
+	height: 56px;
+}
+.align{
+	text-align: center;
+}
+.blc{
+	width: 300px;
+	height: auto;
+}
+.margin{
+	margin-bottom: 50px;
+}
+.colordark{
+	background-color: #1B1B1B;
+}
+.colorpurple{
+	background-color: #938599;
+}
+.textcolor{
+	color: #FBF7EE;
+}
+.bigimg{
+	width: 100%;
+}
+.dropdownstyle{
+	background-color: ;
+	text-decoration-color: white;
+}
+.imgsize{
+	width: 400px;
+}
+.backgroundcolor{
+	background-color: #F4F4F4;
+}
+.imgthumbnail{
+	width: 100px;
+}
